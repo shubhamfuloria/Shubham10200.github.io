@@ -216,5 +216,15 @@ button:hover{
     .left-head-container{
         flex: 1;
     }
+    #search{
+        margin-right: 20px;
+        width: 120px;
+    }
+    .input-text-container{
+        width: 95%;
+    }
+    .footer{
+        padding: 3px 5px;
+    }
 
 }
