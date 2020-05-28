@@ -5,7 +5,7 @@
 body{
     overflow: scroll;
 }
-::-webkit-scroll-bar{
+::-webkit-scrollbar{
     width: 0;
     height: 0;
     background: hidden;
