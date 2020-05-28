@@ -7,8 +7,9 @@ body{
 }
 ::-webkit-scrollbar{
     width: 0;
+    background: transparent;
     height: 0;
-    background: hidden;
+
 }
 *{
     margin: 0;
