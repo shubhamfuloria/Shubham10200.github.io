@@ -2,6 +2,14 @@
     --main-color: rgb(18, 53, 248);
     --main-hover-color: rgba(18, 53, 248, 0.6);
 }
+body{
+    overflow: scroll;
+}
+::-webkit-scroll-bar{
+    width: 0;
+    height: 0;
+    background: hidden;
+}
 *{
     margin: 0;
     padding: 0;
