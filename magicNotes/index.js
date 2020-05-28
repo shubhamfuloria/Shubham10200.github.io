@@ -85,7 +85,7 @@ search.addEventListener('input', function(){
         let cardTxt = element.getElementsByTagName('p')[0].innerText;
 
         if(cardTxt.includes(inputVal)){
-            element.getElementsByClassName.display = 'flex';
+            element.style.display = 'flex';
         }
         else{
             element.style.display = 'none';
